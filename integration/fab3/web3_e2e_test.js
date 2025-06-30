@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /*
 Copyright IBM Corp. All Rights Reserved.
 SPDX-License-Identifier: Apache-2.0
